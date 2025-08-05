@@ -7,7 +7,6 @@ Currently, I’m exploring the world of frontend development, and I love experim
 
 Outside of code, I love doing painting and creating art, which helps me bring creativity into everything I do.
 
-### 📫 Let’s Connect
+### Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-panthi-2aa127303/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kritikapanthi45@gmail.com)
