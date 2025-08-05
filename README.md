@@ -3,7 +3,6 @@
 I'm Kritika Panthi, a backend developer and Student.
 
 I’m passionate about building clean, efficient, and user-friendly backend systems with Node.js, express.js,and MongoDB.
-
 Currently, I’m exploring the world of frontend development, and I love experimenting with design, and creative coding.
 
 Outside of code, I love doing painting and creating art, which helps me bring creativity into everything I do.
