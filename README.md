@@ -2,8 +2,8 @@
 
 I'm Kritika Panthi, a developer based in kathmandu.
 
-I’m passionate about building clean, efficient, and user-friendly backend systems with Node.js, express.js,and MongoDB.
-Currently, I’m exploring the world of frontend development, and I love experimenting with design, and creative coding.
+I’m passionate about building clean, efficient, and user-friendly backend and frontend systems with React, Tailwindcss, Node.js, express.js,and MongoDB.
+Currently, I’m exploring the world of fullstack development, and I love experimenting with design, and creative coding.
 
 Outside of code, I love doing painting and creating art, which helps me bring creativity into everything I do.
 
